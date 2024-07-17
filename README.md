@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav-ach
+- 👋 Hi, I’m @Gaurav Acharya
 - 👀 I’m interested in forntend design 
 - 🌱 I’m currently learning react js and mern stack 
 - 💞️ I’m looking to collaborate on 
