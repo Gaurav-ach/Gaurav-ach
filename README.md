@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav Acharya
 - 👀 I’m interested in forntend design 
-- 🌱 I’m currently learning react js and mern stack 
+- 🌱 I’m currently learning  mern stack 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me gauravach960@gmail.com
 - 😄 Pronouns: ...
